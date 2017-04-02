@@ -1,4 +1,4 @@
-Neural Doodle
+BSNL-Usage
 =============
 
 A Python script to check BSNL broadband montly usage. Also stores day-to-day cumulative usage in a CSV file.
